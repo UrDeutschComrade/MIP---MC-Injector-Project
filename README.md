@@ -24,9 +24,9 @@ Owner & Developer - TirupGamerYT
 
 Owner & Developer - Flexyus3000
 
-Owner & Developer - Vinnie
+UI Developer - Vinnie
 
-Owner & Developer - PepeYT
+Owner & UI Developer - PepeYT
 
 
 # 📝 Disclaimer 📝
