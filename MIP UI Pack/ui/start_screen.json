@@ -300,12 +300,14 @@
 
   "edu_feedback_button@common_buttons.light_content_button": {
     "size": [ 0, 0 ],
+    "offset": [ 1000, 1000 ],
     "$button_content": "start.feedback_icon",
     "$pressed_button_name": "button.edu_feedback"
   },
 
   "release_feedback_button@common_buttons.hyperlink_content_button": {
     "size": [ 0, 0 ],
+    "offset": [ 1000, 1000 ],
     "property_bag": {
       "#hyperlink": "https://aka.ms/minecraftfb"
     },
@@ -321,6 +323,7 @@
   "feedback_button": {
     "ignored": "$feedback_ignored",
     "type": "panel",
+    "offset": [ 1000, 1000 ],
     "$button_tts_header": "accessibility.start.feedback",
     "controls": [
       { "edu_feedback_button@start.edu_feedback_button": { "ignored": "$edu_feedback_ignored" } },
@@ -331,6 +334,7 @@
 
   "achievements_button@common_buttons.light_content_button": {
     "size": [ 30, 30 ],
+    "offset": [ 1000, 1000 ],
     "$button_content": "start.achievements_icon",
     "$pressed_button_name": "button.menu_achievements",
     "anchor_from": "center",
@@ -386,7 +390,7 @@
     "$button_text": "menu.educatorResources"
   },
 
-  "upper_online_buttons_panel": {
+  "upper__buttons_panel": {
     "type": "stack_panel",
     "anchor_to": "bottom_left",
     "anchor_from": "bottom_left",
