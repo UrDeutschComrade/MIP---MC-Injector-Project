@@ -10,17 +10,17 @@
                                    
 # Credits 📔
 
-Developer - UrDeutschComrade
+Owner & Developer - UrDeutschComrade
 
 Owner & Developer - obv
 
-Developer - TirupGamerYT
+Owner & Developer - TirupGamerYT
 
-Developer - Flexyus3000
+Owner & Developer - Flexyus3000
 
-Admin & UI - Vinnie
+Owner & Developer - Vinnie
 
-UI - PepeYT
+Owner & Developer - PepeYT
 
 
 
