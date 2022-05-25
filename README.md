@@ -7,7 +7,13 @@
 # Welcome! 👋
 
 - This is a minecraft client made for: Windows 10 (Launcher/Injector) And MCPE (Toolbox) 
-                                   
+
+# ❗❗ Download ❗❗
+
+The download is coming soon, For more info. Join the discord:
+https://discord.gg/V583bpvpMp
+
+
 # Credits 📔
 
 Owner & Developer - UrDeutschComrade
@@ -23,10 +29,9 @@ Owner & Developer - Vinnie
 Owner & Developer - PepeYT
 
 
-
-
-
 # 📝 Disclaimer 📝
 
 We are not stealing any client, We are making everything ourselfs. (With help of course)
-if something seems stolen, Lets just say a animation made by picklegamer123 (not a real person). We ask permission before we put it in.
+Lets just say a chat ui animation made by picklegamer123 (not a real person). If we want it in our client we ask permission before we put it in.
+
+                                   
