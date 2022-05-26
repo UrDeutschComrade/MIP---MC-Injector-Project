@@ -8,54 +8,10 @@
      "fill": "true"
    },
 
-  "achievements_icon": {
-    "type": "image",
-    "texture": "textures/ui/achievements",
-    "layer": 1000000000,
-    "size": [ 0, 0 ]
-  },
-
-  "Xbox_icon": {
-    "type": "image",
-    "texture": "textures/ui/xbox4",
-    "layer": 3,
-    "size": [ 27, 27 ]
-  },
-
-  "change_skin_icon": {
-    "type": "image",
-    "anchor_from": "left_middle",
-    "anchor_to": "left_middle",
-    "texture": "textures/ui/hangar",
-    "layer": 3,
-    "size": [ 32, 16 ]
-  },
-
   "new_offers_icon@common_store.new_offer_icon": {
     "layer": 11, // This is the lowest layer where the button border won't show through this icon while being pressed
     "anchor_from": "top_right",
     "anchor_to": "top_right"
-  },
-
-  "update_prompt_icon": {
-    "type": "image",
-    "texture": "textures/ui/update",
-    "layer": 12, // This is the lowest layer where the button border won't show through this icon while being pressed
-    "anchor_from": "top_right",
-    "anchor_to": "top_right",
-    "size": [ 11, 21 ]
-  },
-
-  "marketplace_error_icon@common_store.marketplace_error_icon": {
-    "layer": 12,
-    "anchor_from": "top_left",
-    "anchor_to": "top_left"
-  },
-
-  "sale_ribbon_icon": {
-    "type": "image",
-    "texture": "textures/ui/saleribbon",
-    "layer": 12 // This is the lowest layer where the button border won't show through this icon while being pressed
   },
 
   "copyright": {
@@ -68,34 +24,6 @@
     "max_size": [ "100%", "100%" ],
     "anchor_from": "top_left",
     "anchor_to": "top_left"
-  },
-
-  "watermark": {
-    "type": "label",
-    "color": "$main_header_text_color",
-    "layer": 2,
-    "text": "ES Pack V1",
-    "size": [ "default", 10 ],
-    "max_size": [ "100%", "100%" ],
-    "anchor_from": "bottom_middle",
-    "anchor_to": "bottom_middle"
-  },
-
-  "development_version": {
-    "type": "label",
-    "color": "$main_header_text_color",
-    "layer": 2,
-    "font_type": "smooth",
-    "text": "#development_version",
-    "size": [ "default", 10 ],
-    "max_size": [ "100%", "100%" ],
-    "anchor_from": "center",
-    "anchor_to": "center",
-    "bindings": [
-      {
-        "binding_name": "#development_version"
-      }
-    ]
   },
 
   "version": {
@@ -114,31 +42,6 @@
       }
     ]
   },
-
-  "text_panel": {
-    "type": "panel",
-    "size": [ "100%-2px", 10 ],
-    "offset": [ 0, -1 ],
-    "anchor_from": "bottom_middle",
-    "anchor_to": "bottom_middle",
-    "controls": [
-      {
-        "copyright@start.copyright": {}
-      },
-      {
-        "development_version@start.development_version": {
-          "ignored": "$is_publish"
-        }
-      },
-      {
-        "version@start.version": {}
-      }
-    ]
-  },
-
-  //---------------------------------------------------------------------------
-  // Skins Panel
-  //---------------------------------------------------------------------------
 
   "skin_or_profile_panel": {
     "type": "panel",
@@ -689,39 +592,6 @@
     "$backup_font_type": "smooth",
     "$focus_override_right": "profile_button",
     "tts_index_order": 1
-  },
-
-  "toolbox_mode_button@start.main_button": {
-    "$pressed_button_name": "button.toolbox_mode",
-    "$button_text": "menu.toolboxMode",
-    "$focus_override_right": "profile_button"
-  },
-
-  "course_button@start.main_button": {
-    "$pressed_button_name": "button.menu_courses",
-    "$button_text": "course.edu.courses"
-  },
-
-  "tutorial_button@start.main_button": {
-    "$pressed_button_name": "button.menu_tutorial",
-    "$button_text": "tutorial.edu.menuTitle"
-  },
-
-  "featured_world_button@start.main_button": {
-    "$pressed_button_name": "button.featured_category",
-    "$button_text": "start_screen.start_demo"
-  },
-
-  "switch_accounts_button@start.main_button": {
-    "$pressed_button_name": "button.switch_accounts",
-    "$button_text": "#switch_accounts_button_text",
-    "$button_text_binding_type": "global",
-    "tts_index_order": 3
-  },
-
-  "launch_editions_button@start.main_button": {
-    "$pressed_button_name": "button.launch_editions",
-    "$button_text": "menu.editions"
   },
 
   "settings_button@start.main_button": {
