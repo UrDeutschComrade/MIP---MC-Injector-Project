@@ -1,13 +1,6 @@
 ﻿{
   "namespace": "start",
    
-   "background_image": {
-     "type": "image",
-     "texture": "future/textures/assets/bg",
-     "layer": 0,
-     "fill": "true"
-   },
-
   "new_offers_icon@common_store.new_offer_icon": {
     "layer": 11, // This is the lowest layer where the button border won't show through this icon while being pressed
     "anchor_from": "top_right",
