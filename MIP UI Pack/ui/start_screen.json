@@ -1,5 +1,12 @@
 ﻿{
   "namespace": "start",
+   
+   "background_image": {
+     "type": "image",
+     "texture": "future/textures/assets/bg",
+     "layer": 0,
+     "fill": "true"
+   },
 
   "achievements_icon": {
     "type": "image",
@@ -1544,6 +1551,9 @@
       },
       {
         "text_panel@start.text_panel": {}
+      },
+            {
+        "background_image@start.background_image": {}
       },
       {
         "popup_dialog_factory": {
