@@ -24,7 +24,6 @@ https://discord.gg/V583bpvpMp
 - Designer: Ary & Obv
 - Github Management: Obv
 - Manager: PapierTanne
-- 
 
 
 # 📝 Disclaimer 📝
