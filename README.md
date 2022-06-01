@@ -16,17 +16,15 @@ https://discord.gg/V583bpvpMp
 
 # Credits 📔
 
-Owner & Developer - UrDeutschComrade
-
-Owner & Developer - obv
-
-Owner & Developer - TirupGamerYT
-
-Owner & Developer - Flexyus3000
-
-UI Developer - Vinnie
-
-Owner & UI Developer - PepeYT
+- Ui Pack: Es, Zephyx, Obv
+- Cosmetics: Zephyx, Flexyus
+- Toolbox Client: Zephyx, Es
+- Launcher: Es[mobile], Flexyus [pc]
+- Mods: Es
+- Designer: Ary & Obv
+- Github Management: Obv
+- Manager: PapierTanne
+- 
 
 
 # 📝 Disclaimer 📝
