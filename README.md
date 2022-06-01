@@ -16,7 +16,7 @@ https://discord.gg/V583bpvpMp
 
 # Credits 📔
 
-- Ui Pack: Es, Zephyx, Obv
+- Ui Pack: Es, Zephyx
 - Cosmetics: Zephyx, Flexyus
 - Toolbox Client: Zephyx, Es
 - Launcher: Es[mobile], Flexyus [pc]
@@ -24,6 +24,7 @@ https://discord.gg/V583bpvpMp
 - Designer: Ary & Obv
 - Github Management: Obv
 - Manager: PapierTanne
+- Server Manager: Tirupgameryt
 
 
 # 📝 Disclaimer 📝
